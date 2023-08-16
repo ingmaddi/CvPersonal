@@ -1,0 +1,17 @@
+*{
+    font-family: 'Kalam', cursive;
+    }
+header
+{
+    background-image: url("/imagenes/fondo2.png");
+}
+
+section{
+    background-color: rgb(25,73,154);
+    color: white;
+    font-size: 25px;
+}
+footer{
+
+    background-color: rgb(201,215,222);
+}
